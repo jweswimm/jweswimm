@@ -1,3 +1,3 @@
-I'm passionate about scientific computing, applied math, motorcycles, and backpacking.
+I'm passionate about scientific computing and applied math
 
 Thanks for stopping by!
